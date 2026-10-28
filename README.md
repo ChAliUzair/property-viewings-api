@@ -1,7 +1,7 @@
 # Property Viewings API
 
 [![CI](https://github.com/ChAliUzair/property-viewings-api/actions/workflows/ci.yml/badge.svg)](https://github.com/ChAliUzair/property-viewings-api/actions/workflows/ci.yml)
-![Node 20](https://img.shields.io/badge/node-20-339933)
+![Node 22](https://img.shields.io/badge/node-22-339933)
 ![NestJS 11](https://img.shields.io/badge/NestJS-11-E0234E)
 ![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL-17-336791)
 ![License MIT](https://img.shields.io/badge/license-MIT-blue)
